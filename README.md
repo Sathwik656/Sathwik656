@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sathwik656&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<a href="https://monkeytype.com/profile/Sathwik656" target="_blank"><img src="https://typingstats.com/partners/monkeytype.png" height="45"/></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
