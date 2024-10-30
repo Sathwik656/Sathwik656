@@ -14,7 +14,8 @@
 
 
 <h2 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">📊 LeetCode & Roadmap.sh Stats: <br></h2>
-<img src="https://leetcard.jacoblin.cool/sathwik656?theme=dark&font=Vazirmatn" alt="LeetCode Stats"> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6720ee5931d65c235d76799d?variant=dark" alt="roadmap.sh"/></a>
+<img src="https://leetcard.jacoblin.cool/sathwik656?theme=dark&font=Vazirmatn" alt="LeetCode Stats"> 
+
 
 
 ## 🏆 GitHub Trophies
