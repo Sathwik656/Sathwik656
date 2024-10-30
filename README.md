@@ -12,6 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sathwik656&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwik656&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 LeetCode Stats:
+<h2 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">📊 LeetCode & Roadmap.sh Stats: <br></h2>
+<img src="https://leetcard.jacoblin.cool/sathwik656?theme=dark&font=Vazirmatn" alt="LeetCode Stats"> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6720ee5931d65c235d76799d?variant=dark" alt="roadmap.sh"/></a>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sathwik656&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
