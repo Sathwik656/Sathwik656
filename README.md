@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Structures & Algorithms<br>👯 I’m looking to collaborate on Python Projects<br>🤝 I’m looking for help with developing an Android Application<br>🌱 I’m currently learning R programming<br>💬 Ask me about Digital Marketing & Content Creation<br>⚡ Fun fact - im a gamer
+🔭 I’m currently working on Data Structures & Algorithms<br>👯 I’m looking to collaborate on Python Projects<br>🤝 I’m looking for help with developing an Android Application<br>🌱 I’m currently learning R programming<br>💬 Ask me about Digital Marketing & Content Creation<br>
 
 
 ## 🌐 Socials:
